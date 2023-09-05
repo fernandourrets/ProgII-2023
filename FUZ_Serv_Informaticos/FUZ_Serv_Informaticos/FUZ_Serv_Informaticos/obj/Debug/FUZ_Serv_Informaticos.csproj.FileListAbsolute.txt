@@ -1,0 +1,43 @@
+E:\TUP\Programacion 2023-bymyown\2023\FUZ_Serv_Informaticos\FUZ_Serv_Informaticos\FUZ_Serv_Informaticos\bin\Debug\FUZ_Serv_Informaticos.exe.config
+E:\TUP\Programacion 2023-bymyown\2023\FUZ_Serv_Informaticos\FUZ_Serv_Informaticos\FUZ_Serv_Informaticos\bin\Debug\FUZ_Serv_Informaticos.exe
+E:\TUP\Programacion 2023-bymyown\2023\FUZ_Serv_Informaticos\FUZ_Serv_Informaticos\FUZ_Serv_Informaticos\bin\Debug\FUZ_Serv_Informaticos.pdb
+E:\TUP\Programacion 2023-bymyown\2023\FUZ_Serv_Informaticos\FUZ_Serv_Informaticos\FUZ_Serv_Informaticos\obj\Debug\FUZ_Serv_Informaticos.csprojAssemblyReference.cache
+E:\TUP\Programacion 2023-bymyown\2023\FUZ_Serv_Informaticos\FUZ_Serv_Informaticos\FUZ_Serv_Informaticos\obj\Debug\FUZ_Serv_Informaticos.FrmPpal.resources
+E:\TUP\Programacion 2023-bymyown\2023\FUZ_Serv_Informaticos\FUZ_Serv_Informaticos\FUZ_Serv_Informaticos\obj\Debug\FUZ_Serv_Informaticos.Properties.Resources.resources
+E:\TUP\Programacion 2023-bymyown\2023\FUZ_Serv_Informaticos\FUZ_Serv_Informaticos\FUZ_Serv_Informaticos\obj\Debug\FUZ_Serv_Informaticos.csproj.GenerateResource.cache
+E:\TUP\Programacion 2023-bymyown\2023\FUZ_Serv_Informaticos\FUZ_Serv_Informaticos\FUZ_Serv_Informaticos\obj\Debug\FUZ_Serv_Informaticos.csproj.CoreCompileInputs.cache
+E:\TUP\Programacion 2023-bymyown\2023\FUZ_Serv_Informaticos\FUZ_Serv_Informaticos\FUZ_Serv_Informaticos\obj\Debug\FUZ_Serv_Informaticos.exe
+E:\TUP\Programacion 2023-bymyown\2023\FUZ_Serv_Informaticos\FUZ_Serv_Informaticos\FUZ_Serv_Informaticos\obj\Debug\FUZ_Serv_Informaticos.pdb
+E:\TUP\Programacion 2023-bymyown\2023\FUZ_Serv_Informaticos\FUZ_Serv_Informaticos\FUZ_Serv_Informaticos\obj\Debug\FUZ_Serv_Informaticos.frmAgregarClientes.resources
+E:\TUP\Programacion 2023-bymyown\2023\FUZ_Serv_Informaticos\FUZ_Serv_Informaticos\FUZ_Serv_Informaticos\obj\Debug\FUZ_Serv_Informaticos.frmBuscarClientes.resources
+E:\TUP\Programacion 2023-bymyown\2023\FUZ_Serv_Informaticos\FUZ_Serv_Informaticos\FUZ_Serv_Informaticos\obj\Debug\FUZ_Serv_Informaticos.frmTecnica.resources
+E:\TUP\Programacion 2023-bymyown\2023\FUZ_Serv_Informaticos\FUZ_Serv_Informaticos\FUZ_Serv_Informaticos\obj\Debug\FUZ_Serv_Informaticos.frmBuscarProductos.resources
+E:\TUP\2023\Programacion II\Practico\FUZ_Serv_Informaticos\FUZ_Serv_Informaticos\FUZ_Serv_Informaticos\bin\Debug\FUZ_Serv_Informaticos.exe.config
+E:\TUP\2023\Programacion II\Practico\FUZ_Serv_Informaticos\FUZ_Serv_Informaticos\FUZ_Serv_Informaticos\bin\Debug\FUZ_Serv_Informaticos.exe
+E:\TUP\2023\Programacion II\Practico\FUZ_Serv_Informaticos\FUZ_Serv_Informaticos\FUZ_Serv_Informaticos\bin\Debug\FUZ_Serv_Informaticos.pdb
+E:\TUP\2023\Programacion II\Practico\FUZ_Serv_Informaticos\FUZ_Serv_Informaticos\FUZ_Serv_Informaticos\obj\Debug\FUZ_Serv_Informaticos.csprojAssemblyReference.cache
+E:\TUP\2023\Programacion II\Practico\FUZ_Serv_Informaticos\FUZ_Serv_Informaticos\FUZ_Serv_Informaticos\obj\Debug\FUZ_Serv_Informaticos.frmAgregarClientes.resources
+E:\TUP\2023\Programacion II\Practico\FUZ_Serv_Informaticos\FUZ_Serv_Informaticos\FUZ_Serv_Informaticos\obj\Debug\FUZ_Serv_Informaticos.frmBuscarClientes.resources
+E:\TUP\2023\Programacion II\Practico\FUZ_Serv_Informaticos\FUZ_Serv_Informaticos\FUZ_Serv_Informaticos\obj\Debug\FUZ_Serv_Informaticos.frmBuscarProductos.resources
+E:\TUP\2023\Programacion II\Practico\FUZ_Serv_Informaticos\FUZ_Serv_Informaticos\FUZ_Serv_Informaticos\obj\Debug\FUZ_Serv_Informaticos.frmPpal.resources
+E:\TUP\2023\Programacion II\Practico\FUZ_Serv_Informaticos\FUZ_Serv_Informaticos\FUZ_Serv_Informaticos\obj\Debug\FUZ_Serv_Informaticos.frmTecnica.resources
+E:\TUP\2023\Programacion II\Practico\FUZ_Serv_Informaticos\FUZ_Serv_Informaticos\FUZ_Serv_Informaticos\obj\Debug\FUZ_Serv_Informaticos.Properties.Resources.resources
+E:\TUP\2023\Programacion II\Practico\FUZ_Serv_Informaticos\FUZ_Serv_Informaticos\FUZ_Serv_Informaticos\obj\Debug\FUZ_Serv_Informaticos.csproj.GenerateResource.cache
+E:\TUP\2023\Programacion II\Practico\FUZ_Serv_Informaticos\FUZ_Serv_Informaticos\FUZ_Serv_Informaticos\obj\Debug\FUZ_Serv_Informaticos.csproj.CoreCompileInputs.cache
+E:\TUP\2023\Programacion II\Practico\FUZ_Serv_Informaticos\FUZ_Serv_Informaticos\FUZ_Serv_Informaticos\obj\Debug\FUZ_Serv_Informaticos.exe
+E:\TUP\2023\Programacion II\Practico\FUZ_Serv_Informaticos\FUZ_Serv_Informaticos\FUZ_Serv_Informaticos\obj\Debug\FUZ_Serv_Informaticos.pdb
+E:\TUP\2023\Fer.net Servicios Informaticos\FUZ_Serv_Informaticos\FUZ_Serv_Informaticos\FUZ_Serv_Informaticos\bin\Debug\FUZ_Serv_Informaticos.exe.config
+E:\TUP\2023\Fer.net Servicios Informaticos\FUZ_Serv_Informaticos\FUZ_Serv_Informaticos\FUZ_Serv_Informaticos\bin\Debug\FUZ_Serv_Informaticos.exe
+E:\TUP\2023\Fer.net Servicios Informaticos\FUZ_Serv_Informaticos\FUZ_Serv_Informaticos\FUZ_Serv_Informaticos\bin\Debug\FUZ_Serv_Informaticos.pdb
+E:\TUP\2023\Fer.net Servicios Informaticos\FUZ_Serv_Informaticos\FUZ_Serv_Informaticos\FUZ_Serv_Informaticos\obj\Debug\FUZ_Serv_Informaticos.csprojAssemblyReference.cache
+E:\TUP\2023\Fer.net Servicios Informaticos\FUZ_Serv_Informaticos\FUZ_Serv_Informaticos\FUZ_Serv_Informaticos\obj\Debug\FUZ_Serv_Informaticos.frmAgregarClientes.resources
+E:\TUP\2023\Fer.net Servicios Informaticos\FUZ_Serv_Informaticos\FUZ_Serv_Informaticos\FUZ_Serv_Informaticos\obj\Debug\FUZ_Serv_Informaticos.frmBuscarClientes.resources
+E:\TUP\2023\Fer.net Servicios Informaticos\FUZ_Serv_Informaticos\FUZ_Serv_Informaticos\FUZ_Serv_Informaticos\obj\Debug\FUZ_Serv_Informaticos.frmBuscarProductos.resources
+E:\TUP\2023\Fer.net Servicios Informaticos\FUZ_Serv_Informaticos\FUZ_Serv_Informaticos\FUZ_Serv_Informaticos\obj\Debug\FUZ_Serv_Informaticos.frmPpal.resources
+E:\TUP\2023\Fer.net Servicios Informaticos\FUZ_Serv_Informaticos\FUZ_Serv_Informaticos\FUZ_Serv_Informaticos\obj\Debug\FUZ_Serv_Informaticos.frmTecnica.resources
+E:\TUP\2023\Fer.net Servicios Informaticos\FUZ_Serv_Informaticos\FUZ_Serv_Informaticos\FUZ_Serv_Informaticos\obj\Debug\FUZ_Serv_Informaticos.Properties.Resources.resources
+E:\TUP\2023\Fer.net Servicios Informaticos\FUZ_Serv_Informaticos\FUZ_Serv_Informaticos\FUZ_Serv_Informaticos\obj\Debug\FUZ_Serv_Informaticos.csproj.GenerateResource.cache
+E:\TUP\2023\Fer.net Servicios Informaticos\FUZ_Serv_Informaticos\FUZ_Serv_Informaticos\FUZ_Serv_Informaticos\obj\Debug\FUZ_Serv_Informaticos.csproj.CoreCompileInputs.cache
+E:\TUP\2023\Fer.net Servicios Informaticos\FUZ_Serv_Informaticos\FUZ_Serv_Informaticos\FUZ_Serv_Informaticos\obj\Debug\FUZ_Serv_Informaticos.exe
+E:\TUP\2023\Fer.net Servicios Informaticos\FUZ_Serv_Informaticos\FUZ_Serv_Informaticos\FUZ_Serv_Informaticos\obj\Debug\FUZ_Serv_Informaticos.pdb
+E:\TUP\2023\Fer.net Servicios Informaticos\FUZ_Serv_Informaticos\FUZ_Serv_Informaticos\FUZ_Serv_Informaticos\obj\Debug\FUZ_Serv_Informaticos.frmBuscarPresupuesto.resources
